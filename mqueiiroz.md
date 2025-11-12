@@ -1,14 +1,19 @@
-# Olá, eu sou Matheus Queiroz! 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Olá, eu sou Matheus Queiroz! 👋
 
 ### 🚀 Desenvolvedor | Estudante de Engenharia de Software
 
 Sou apaixonado por tecnologia e estou focado em aprimorar minhas habilidades em desenvolvimento de software. Atualmente, estou me dedicando intensamente a desenvolvimento back-end
 ---
 
+# 💻 Minhas Principais Ferramentas e Foco de Estudo
+
 Minhas principais áreas de estudo e ferramentas de trabalho incluem:
-<div align="center">    
-    <i class="devicon-python-plain colored" style="font-size: 40px;"></i>
+
+<div>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Ícone Python"/>
 </div>
+
 
 ---
 
