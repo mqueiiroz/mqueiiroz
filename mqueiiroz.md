@@ -8,6 +8,7 @@ Sou apaixonado por tecnologia e estou atualmente no 7º período de Engenharia d
 
 
 O que faço
+
 🔍 Quality Assurance: Plano de testes, gestão de bugs e testes de regressão.
 
 ⚙️ Desenvolvimento Back-end: Código escalável e estruturado (Foco em Python).
