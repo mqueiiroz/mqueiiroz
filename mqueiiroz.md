@@ -3,7 +3,9 @@
 
 ### 🚀 Desenvolvedor | Estudante de Engenharia de Software
 
-Sou apaixonado por tecnologia e estou focado em aprimorar minhas habilidades em desenvolvimento de software. Atualmente, estou me dedicando intensamente a desenvolvimento back-end
+Estudante de Engenharia de Software | Focado em QA e Desenvolvimento Back-end
+
+Sou apaixonado por tecnologia e estou atualmente no 7º período de Engenharia de Software. Meu foco está no aprimoramento de habilidades voltadas para a garantia de qualidade de software (QA), aplicando lógica de programação para análise, testes e verificação de sistemas.
 ---
 
 # 💻 Minhas Principais Ferramentas e Foco de Estudo
